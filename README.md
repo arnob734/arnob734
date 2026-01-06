@@ -5,7 +5,7 @@ I am Arnob Sarkar, Recent Graduate B.Tech in Electrical Engineering at NIT Silch
 
 - 🌱 I’m currently learning backend technologies
 - 💬 Ask me about Programming and data structure 
-- 📫 How to reach me arnobsarkar734@gmail.com
+- 📫 How to reach me 02arnobsarkararitro@gmail.com
 
 ### Languages and Tools
 
